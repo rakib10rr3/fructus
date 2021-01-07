@@ -30,6 +30,6 @@ struct OnboardingView: View {
 struct OnboardingView_Previews: PreviewProvider {
     static var previews: some View {
         OnboardingView(fruits: fruitsData)
-            .previewDevice("iPhone 11 Pro")
+            .previewDevice("iPhone 12 Pro")
     }
 }
