@@ -20,3 +20,4 @@ Learned the following things:
 ___
 
 # Screenshots
+<a href="url"><img src="![Simulator Screen Shot - iPhone 8 - 2021-01-08 at 12 10 09](https://user-images.githubusercontent.com/22112235/104024622-998a2a80-51ed-11eb-8813-54e7bdee20e8.png)" align="left" height="480" width="480" ></a>
