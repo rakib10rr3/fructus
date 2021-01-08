@@ -1,6 +1,7 @@
 # FRUCTUS
 A colorful encyclopedia app of fruits using SwiftUI
 ___
+
 Learned the following things:
 * How to set up a new iOS 14 project with the new SwiftUI App Life Cycle.
 * How to develop a unique Onboarding screen
@@ -15,3 +16,7 @@ Learned the following things:
 * How to use the improved Canvas and Previews in Xcode 12
 * How to test the iOS 14 app in Xcode Simulator
 * Get familiar with the new Xcode 12
+
+___
+
+# Screenshots
