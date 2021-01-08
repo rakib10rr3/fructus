@@ -20,6 +20,6 @@ Learned the following things:
 ___
 
 # Screenshots
-<img src="https://user-images.githubusercontent.com/22112235/104025024-38af2200-51ee-11eb-8177-755531169b6e.png" align="left" height="640" width="320" >
+<img src="https://user-images.githubusercontent.com/22112235/104025024-38af2200-51ee-11eb-8177-755531169b6e.png" align="left" height="720" width="380" >
 
 
