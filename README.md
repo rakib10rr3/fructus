@@ -20,6 +20,9 @@ Learned the following things:
 ___
 
 # Screenshots
+<img src="https://user-images.githubusercontent.com/22112235/104025729-4022fb00-51ef-11eb-98e0-20798d26d0ae.png" align="left" height="720" width="380" >
 <img src="https://user-images.githubusercontent.com/22112235/104025024-38af2200-51ee-11eb-8177-755531169b6e.png" align="left" height="720" width="380" >
-
-
+<img src="https://user-images.githubusercontent.com/22112235/104026380-069ebf80-51f0-11eb-8f30-5f219106c5f4.png" align="left" height="720" width="380" >
+<img src="https://user-images.githubusercontent.com/22112235/104026392-0b637380-51f0-11eb-8246-25ed836d0805.png" align="left" height="720" width="380" >
+<img src="https://user-images.githubusercontent.com/22112235/104026396-0bfc0a00-51f0-11eb-925b-8cca92c1ec3d.png" align="left" height="720" width="380" >
+<img src="https://user-images.githubusercontent.com/22112235/104026399-0c94a080-51f0-11eb-8943-1b35cf7845eb.png" align="left" height="720" width="380" >
