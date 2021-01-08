@@ -48,6 +48,7 @@ struct FruitDetailView: View {
                         
                         // LINK
                         SourceLinkView()
+                            .padding(.bottom, 20)
                     }
                     .padding(.horizontal, 20)
                     .frame(maxWidth: 640, alignment: .center)
@@ -55,7 +56,7 @@ struct FruitDetailView: View {
                 .navigationBarTitle(fruit.title, displayMode: .inline)
                 .navigationBarHidden(true)
             }
-            .padding(.bottom, 20)
+            
             .edgesIgnoringSafeArea(.top)
         }
         .navigationViewStyle(StackNavigationViewStyle())

@@ -11,6 +11,8 @@ struct ContentView: View {
     
     var fruits = fruitsData
     
+    @State var isShowingSettings = false
+    
     var body: some View {
         NavigationView {
             List {
@@ -22,6 +24,15 @@ struct ContentView: View {
                 }
             }
             .navigationBarTitle("Fruits")
+            .navigationBarItems(trailing: Button(action: {
+                isShowingSettings = true
+            }, label: {
+                Image(systemName: "slider.horizontal.3")
+            })
+            .sheet(isPresented: $isShowingSettings, content: {
+                SettingsView()
+            })
+            )
         }
     }
 }

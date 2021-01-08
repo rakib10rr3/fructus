@@ -17,7 +17,8 @@ struct FruitNutrientsView: View {
         GroupBox() {
             DisclosureGroup("Nutritional value per 100g"){
                 ForEach(0 ..< nutrients.count, id: \.self) { item in
-                    Divider().padding(.vertical, 2)
+                    Divider()
+                        .padding(.vertical, 2)
                     HStack {
                         Group {
                             Image(systemName: "info.circle")
